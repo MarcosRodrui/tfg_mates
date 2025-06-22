@@ -120,4 +120,3 @@ dependencies:
       - tqdm==4.66.2
       - triton==2.2.0
       - tzdata==2025.1
-prefix: /home/marcosrodrui/.conda/envs/pykan-env
