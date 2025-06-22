@@ -1,2 +1,6 @@
 figures/
 model/
+saved_models/
+__pycache__/
+comparation/
+imgs/
